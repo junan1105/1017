@@ -7,7 +7,7 @@
 :root {
   --main-color: #0000ff;   /* 主色：色（按鈕、導覽列背景） */
   --main-dark: #ff1493;    /* 主色加深版（滑鼠移過去時使用） */
-  --text-color: #ffd700;      /* 主要文字顏色（） */
+  --text-color: #ff7b00;      /* 主要文字顏色（） */
   --bg-light: #006400;     /* 頁面背景色（色） */
 }
 
@@ -29,7 +29,7 @@ body {
 
 /* 導覽列裡的連結樣式 */
 .nav__link {
-  color: #fff;              /* 文字顏色白色 */
+  color: #f7f7f7;              /* 文字顏色白色 */
   text-decoration: none;    /* 移除底線 */
   margin: 0 12px;           /* 左右間距 12px */
   font-weight: bold;        /* 加粗字體 */
